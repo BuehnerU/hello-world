@@ -7,4 +7,4 @@ In former times we called that "submit" or "check-in" *:)*
 
 ---
 This is it.
-![UliBue Avatar](ulibue.png)
+![UliBue Avatar](assets/ulibue.png)
